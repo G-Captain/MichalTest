@@ -7,6 +7,7 @@ public class SomeProgram {
         int cyfra2 = 6;
 
         System.out.println(cyfra1 + cyfra2);
+        System.out.println(cyfra1 - cyfra2);
 
     }
 }
